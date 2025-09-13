@@ -1,0 +1,1 @@
+This project presents a comprehensive data analysis of movie datasets from IMDb and Netflix, focusing on key industry trends and performance metrics. The workflow includes data cleaning, exploratory data analysis (EDA) using Python and pandas
